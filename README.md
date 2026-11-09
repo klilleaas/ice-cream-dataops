@@ -1,2 +1,2 @@
-# ice-cream-dataios
+# ice-cream-dataops
 Cognite Data Fusion Bootcamp
