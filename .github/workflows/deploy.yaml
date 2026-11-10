@@ -9,7 +9,7 @@ on:
     inputs:
       environment:
         description: Pick one
-        required: false
+        required: true
         type: choice
         options:
           - test
